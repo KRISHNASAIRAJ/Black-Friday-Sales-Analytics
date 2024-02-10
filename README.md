@@ -25,3 +25,7 @@ The Walmart Black Friday Real-Time Data Warehousing project aims to build an adv
 ## Video Explanation
 
 A detailed explanation video is included in the project files.
+
+### Original Products List
+
+https://www.kaggle.com/datasets/mdhamani/extensive-products-data
