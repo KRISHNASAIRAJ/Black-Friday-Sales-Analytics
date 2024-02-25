@@ -22,6 +22,8 @@ The Walmart Black Friday Real-Time Data Warehousing project aims to build an adv
 
 ![Hourly,_Daily,_Weekly_Sales_Report_page-0001](https://github.com/KRISHNASAIRAJ/Black-Friday-Sales-Analytics/assets/90061814/315dfe7f-9fde-4649-a53b-b49fcc5b33b2)
 
+https://lookerstudio.google.com/s/n6KBF6FfwXE
+
 ## Video Explanation
 
 Check out the video below for a detailed explanation of the project:
